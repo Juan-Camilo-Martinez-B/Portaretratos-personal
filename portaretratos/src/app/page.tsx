@@ -5,7 +5,7 @@ export default function Home() {
   // Array de recuerdos: cada imagen con su texto único
   const recuerdos = [
     { src: "/Foto1.jpg", alt: "Foto 1", texto: "En verdad nuestra historia comenzó mucho antes, sin embargo, esta fue una de nuestras primeras fotos." },
-    { src: "/Foto2.jpg", alt: "Foto 2", texto: "En este punto ya soliamos compratir tiempo juntos, me ecanta que no importa ni el donde, el cuendo, ni el haciendo que. Disfrutamos estar juntos." },
+    { src: "/Foto2.jpg", alt: "Foto 2", texto: "En este punto ya soliamos compratir tiempo juntos, me encanta que no importa ni el donde, el cuando, ni el haciendo que. Disfrutamos estar juntos." },
     { src: "/Foto3.jpg", alt: "Foto 3", texto: "Los días se hacía cada vez más amenos y aunque el tiempo se pasaba volando, cada minuto a tu lado valía la pena." },
     { src: "/Foto4.jpg", alt: "Foto 4", texto: "A decir verdad no recuerdo que estábamos celebrando, tal vez que subí un par de kilos, jsjsjs, lo importante es que pasamos momentos importantes juntos." },
     { src: "/Foto5.jpg", alt: "Foto 5", texto: "Aunque cada día se volvía cotidiano, cada día era especial." },
